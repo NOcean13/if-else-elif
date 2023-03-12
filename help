@@ -1,0 +1,16 @@
+int(input("How scared are you on a scale of 1-10
+if 5=>:
+	print("You're not that scared
+elif 5<:
+	print("You are scared")
+else:
+	print("You are very scared")
+
+
+multiplier = input("Do you want a multiplier? (Y/N): ")
+	if mutiplier == Y:
+		(int(input("Pick a number from 1 to 1,000,000,000,000,000,000,000,000,000,000,000:"))
+if i <= 0:
+  print("It's not between 1 and 1 decilion")
+  elif i > 1,000,000,000,000,000,000,000,000,000,000,000:
+			print("It's not between 1 and 1 decilion")
